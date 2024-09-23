@@ -1,4 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/h9nlBIrW)
+
+[![Open Lab in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/17D_d4QISGvXanwkYtGnzJ8pG62dstEu0/view?usp=sharing)
+
 #  Stat 220 Lab 2: Probability Calculation for Red Dragon Inn
 
 The Red Dragon Inn is an online Dungeons and Dragons community, connecting players worldwide.
